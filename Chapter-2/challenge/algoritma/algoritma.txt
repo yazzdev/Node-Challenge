@@ -1,0 +1,22 @@
+Algoritma Pembuatan Program Untuk Mengelola Data Nilai Siswa :
+
+1. Membuat kelas NilaiSiswa dengan konstruktor yang menginisialisasi sebuah array data kosong untuk menyimpan data nilai siswa.
+
+2. Membuat method inputNilai() untuk mengambil input data nilai dari user, berikut rinciannya :
+   a. Method ini akan menggunakan readline untuk mengambil input dari user secara interaktif.
+   b. Saat input nilai dimasukkan, method akan memvalidasi input tersebut dan memasukkannya ke dalam array data jika input tersebut valid.
+   c. Saat input telah selesai, method akan menampilkan output dengan menggunakan method lain yang sudah didefinisikan sebelumnya.
+
+3. Membuat method tampilkanNilaiTertinggiTerendah() yang mencari nilai tertinggi dan terendah pada array data dengan menggunakan method Math.max() dan Math.min(), dan menampilkan hasilnya ke console.
+
+4. Membuat method tampilkanRataRata() yang menghitung rata-rata dari nilai-nilai pada array data dengan menggunakan method reduce() untuk menjumlahkan nilai-nilai dalam array data, dan kemudian membaginya dengan panjang array data, dan menampilkan hasilnya ke console.
+
+5. Membuat method tampilkanJumlahLulusTidakLulus() yang mencari jumlah siswa yang lulus dan tidak lulus pada array data dengan menggunakan method filter() untuk memfilter nilai-nilai di dalam array data yang sesuai dengan kriteria, dan menampilkan hasilnya ke console.
+
+6. Membuat method urutkanNilai() yang mengurutkan array data menggunakan algoritma merge sort, dan menampilkan hasilnya ke console.
+
+7. Membuat method cariNilai(nilaiCari) yang mencari jumlah siswa yang memiliki nilai tertentu pada array data dengan menggunakan method filter(), dan menampilkan hasilnya ke console.
+
+8. Membuat objek nilaiSiswa dengan memanggil kelas NilaiSiswa.
+
+9. Panggil method inputNilai pada objek nilaiSiswa.
