@@ -16,9 +16,9 @@
 
 /**
  ** Contoh output di console:
- * $ node main.js 5
- * Timer started for 5 seconds...
- * Timer selesai!
+ * input  : $ node main.js 5
+ * output : Timer started for 5 seconds...
+ * output : Timer selesai!
  */
 
 //* here your code

@@ -17,8 +17,8 @@
 
 /**
  ** Contoh output di console:
- * input : $ node main.js 12
- * Generated password: aB3@dE4FgH5!
+ * input  : $ node main.js 12
+ * output : Generated password: aB3@dE4FgH5!
  */
 
 //* here your code
