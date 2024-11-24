@@ -1,4 +1,4 @@
-//? Challenge Level 1.1: Temperature Converter
+//? Challenge Level 1.8: Temperature Converter
 
 /**
  ** Task
