@@ -1,4 +1,4 @@
-//? Challenge Level 1.1: Directory Files List
+//? Challenge Level 1.2: Directory Files List
 
 /**
  ** Task
