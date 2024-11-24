@@ -1,4 +1,4 @@
-//? Challenge Level 1.4: Timer CLI
+//? Challenge Level 1.13: Timer CLI
 
 //* Goals : Memahami penggunaan fungsi timer bawaan Node.js seperti setTimeout.
 

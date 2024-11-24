@@ -1,4 +1,4 @@
-//? Challenge Level 1.2: Random Password Generator
+//? Challenge Level 1.12: Random Password Generator
 
 //* Goals : Memahami manipulasi string dan array, serta penggunaan logika sederhana untuk membangun generator password.
 
