@@ -27,7 +27,6 @@ rl.question('Enter temperature (e.g., 25C or 77F): ', (input) => {
 
 /**
  ** Explanation:
- * fs.stat() digunakan untuk mengambil informasi file, seperti ukuran dan waktu modifikasi terakhir.
- * path.basename() memberikan nama file, sementara path.extname() memberikan tipe file.
- * Semua informasi file ditampilkan menggunakan console.log().
+ * Input suhu diambil menggunakan modul readline.
+ * Berdasarkan unit (C atau F), rumus konversi yang sesuai diterapkan.
  */
