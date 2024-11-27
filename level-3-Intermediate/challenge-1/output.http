@@ -1,0 +1,29 @@
+# GET /greetings
+GET http://localhost:3000/greetings
+Content-Type: application/json
+
+###
+
+# POST /greetings
+POST http://localhost:3000/greetings
+Content-Type: application/json
+
+{
+  "name": "Alice San"
+}
+
+###
+
+# PUT /greetings
+PUT http://localhost:3000/greetings
+Content-Type: application/json
+
+{
+  "name": "Bob"
+}
+
+###
+
+# DELETE /greetings
+DELETE http://localhost:3000/greetings
+Content-Type: application/json
